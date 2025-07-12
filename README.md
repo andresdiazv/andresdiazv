@@ -2,14 +2,7 @@
 <a href=# ><img width="750" height="200" src="snake.svg"></a>
 </p>
 
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 <p align="center">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=andresdiazv&show_icons=true&theme=radical"/>
-
-<div align="center"> 
- Visitor count </br> </br>
-  <img src="https://profile-counter.glitch.me/andresdiazv/count.svg"/>
-  
-<h3> 🤝🏻 Connect with Me </h3>
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andres-diazvictores/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/andresdiazv)
-</div>
+<img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> https://www.linkedin.com/in/andres-diazvictores/
+</p>
